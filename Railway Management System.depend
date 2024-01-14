@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705255788 source:c:\users\mehed\onedrive\desktop\railway management system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
